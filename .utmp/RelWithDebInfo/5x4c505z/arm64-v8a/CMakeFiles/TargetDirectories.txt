@@ -1,0 +1,5 @@
+C:/Users/Admin/Downloads/IHC-PJ/.utmp/RelWithDebInfo/5x4c505z/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/IHC-PJ/.utmp/RelWithDebInfo/5x4c505z/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Downloads/IHC-PJ/.utmp/RelWithDebInfo/5x4c505z/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Admin/Downloads/IHC-PJ/.utmp/RelWithDebInfo/5x4c505z/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Downloads/IHC-PJ/.utmp/RelWithDebInfo/5x4c505z/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
