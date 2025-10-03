@@ -5,7 +5,6 @@ public class ButtonManage : MonoBehaviour
 {
     public void IrAEscenaAR()
     {
-
         SceneManager.LoadScene("Menu"); 
         Handheld.Vibrate();
     }
